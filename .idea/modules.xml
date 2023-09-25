@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesarolloEServ.iml" filepath="$PROJECT_DIR$/.idea/DesarolloEServ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entornoServ/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/entornoServ/Ejercicios/Ejercicios.iml" />
+    </modules>
+  </component>
+</project>
